@@ -1,0 +1,37 @@
+[
+  {
+    "quoteId": "1",
+    "userName": "Elmo",
+    "content": "What’s that in the sky? Is it a bird? Is it a really big, blue furry bird? …It’s Super Grover!",
+    "timestamp": "2021-04-15 07:31:04",
+    "image": "https://static-s.aa-cdn.net/img/ios/467703220/2e0d97be1da4a6148fc5272c71a4384f"
+  },
+  {
+    "quoteId": "2",
+    "userName": "Elmo",
+    "content": "It’s time to make up a musical!",
+    "timestamp": "2021-01-08 23:25:33",
+    "image": "https://static-s.aa-cdn.net/img/ios/467703220/2e0d97be1da4a6148fc5272c71a4384f"
+  },
+  {
+    "quoteId": "3",
+    "userName": "Big Bird",
+    "content": "Everyone makes mistakes, so why can't you?",
+    "timestamp": "2021-03-08 23:36:20",
+    "image": "https://pbs.twimg.com/profile_images/2678568566/f3fcce534fb06667fdd06d0a2576d5f0.jpeg"
+  },
+  {
+    "quoteId": "4",
+    "userName": "Cookie Monster",
+    "content": "COOKIES!!!",
+    "timestamp": "2021-01-13 02:29:16",
+    "image": "https://pbs.twimg.com/profile_images/429334068459614208/3yjZZ9Ay.jpeg"
+  },
+  {
+    "quoteId": "5",
+    "userName": "Big Bird",
+    "content": "I'm happy to be me!",
+    "timestamp": "2021-01-03 03:32:35",
+    "image": "https://pbs.twimg.com/profile_images/2678568566/f3fcce534fb06667fdd06d0a2576d5f0.jpeg"
+  }
+]
